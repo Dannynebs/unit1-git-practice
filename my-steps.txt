@@ -117,7 +117,13 @@ $ git push -u origin main
 
 Testing to see if GitHub saves these changes
 ### Step 6
-
+touch menu.txt
+ls
+git status
+git add .
+git status
+git commit -m 'starting a menu'
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
